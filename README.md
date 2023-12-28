@@ -2,13 +2,11 @@
 
 ### Hi, I'm Sardor Keldimurodov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
- I'm software developer.
-
-### Languages and tools I work with:
+### I'm software developer.
 
 <br />
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@keldimurodov](https://t.me/Keldimurodov)
+- 📨&nbsp; How to reach me: [@Keldimurodov](https://t.me/Keldimurodov)
 
