@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sardor Keldimurodov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-### I'm software developer.
+### I'm software engineer.
 
 <br />
 
